@@ -7,15 +7,13 @@
 仓库目录说明：
 
 ```
-├─d2l_zh_jupyter        // jupyter代码
-│  ├─data              //课程demo使用的数据
-│  ├─mxnet            //基于mxnet框架的代码
-│  ├─pytorch         //基于pytorch框架的代码
+├─d2l_zh_jupyter    // jupyter代码
+│  ├─data           //课程demo使用的数据
+│  ├─pytorch        //基于pytorch框架的代码
 │  ├─self_exercise  //自己练习加部分注释的代码
-│  └─tensorflow    //基于tensorflow框架的代码
-|--README.md	  // 说明
-|--绘图.pptx      // 博客文章一些说明的配图
-|--课件.pdf      //动手学深度学习2.0 李沐老师课件pdf合集
+|--README.md	    // 说明
+|--绘图.pptx        // 博客文章一些说明的配图
+|--课件.pdf         //动手学深度学习2.0 李沐老师课件pdf合集
 ```
 
 
