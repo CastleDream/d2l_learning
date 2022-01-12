@@ -1,5 +1,9 @@
 ppt/
 pdf/
+d2l_zh_jupyter/self_exercise/.ipynb_checkpoints/
+d2l_zh_jupyter/self_exercise/_pycache_/
+d2l_zh_jupyter/.ipynb_checkpoints/
 .ipynb_checkpoints/
 **/__pycache__/
 **/.ipynb_checkpoints/
+**/.DS_Store
