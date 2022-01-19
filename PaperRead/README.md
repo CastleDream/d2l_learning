@@ -8,3 +8,6 @@
 + VGG(Visual Geometry Group Network)，是2014年ILSVRC竞赛的第二名，第一名是GoogLenet，但是VGG模型在多个迁移学习任务中的表现要优于googLeNet。而且，从图像中提取CNN特征，VGG模型是首选算法。它的缺点在于，参数量有140M之多，需要更大的存储空间。但是这个模型很有研究价值。
   +  Simonyan K ,  Zisserman A . [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)[J]. Computer Science, 2014.
 
++ NiN(Network In Network)
+  + Lin M ,  Chen Q ,  Yan S . [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)[J]. Computer Science, 2013.
+
