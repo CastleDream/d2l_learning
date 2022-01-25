@@ -27,6 +27,15 @@
 
 + Inception-v3
   + C. Szegedy, V. Vanhoucke, S. Ioffe, J. Shlens and Z. Wojna, "[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 2818-2826, doi: 10.1109/CVPR.2016.308.
+  
 + Inception-v3
   + Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alexander A. Alemi. 2017. [Inception-v4, inception-ResNet and the impact of residual connections on learning](https://arxiv.org/pdf/1602.07261.pdf). In <i>Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence</i> (<i>AAAI'17</i>). AAAI Press, 4278–4284.
+  
++ BN(Batch Normalization)
+
+  + Sergey Ioffe and Christian Szegedy. 2015. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/pdf/1502.03167.pdf). In <i>Proceedings of the 32nd International Conference on International Conference on Machine Learning - Volume 37</i> (<i>ICML'15</i>). JMLR.org, 448–456.
+  + Santurkar, S., Tsipras, D., Ilyas, A., & Madry, A. (2018). [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/file/905056c1ac1dad141560467e0a99e1cf-Paper.pdf) *NeurIPS*.
+    + 论文主页：<https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html>
+
+  
 
