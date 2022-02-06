@@ -41,6 +41,9 @@
 
 ## 💫3. 近现代网络
 
-+ ResNet
++ ResNet_2016a
   + He, K., Zhang, X., Ren, S., & Sun, J. (2016). [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf). *2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 770-778.
+
++ ResNet_2016b
+  + He, K., Zhang, X., Ren, S., & Sun, J. (2016). [Identity mappings in deep residual networks](https://arxiv.org/pdf/1603.05027.pdf). *European conference on computer vision* (pp. 630–645).
 
