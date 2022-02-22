@@ -47,3 +47,9 @@
 + ResNet_2016b
   + He, K., Zhang, X., Ren, S., & Sun, J. (2016). [Identity mappings in deep residual networks](https://arxiv.org/pdf/1603.05027.pdf). *European conference on computer vision* (pp. 630–645).
 
+## 🎨 4. Trick
+
++ 图像增强综述
+  + Shorten, C., Khoshgoftaar, T.M.[ A survey on Image Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf). *J Big Data* **6,** 60 (2019). https://doi.org/10.1186/s40537-019-0197-0
+  + 对应的中文解析：[A survey on Image Data Augmentation 数据增强文献综述](https://zhuanlan.zhihu.com/p/76044027)
+
