@@ -7,16 +7,36 @@
 仓库目录说明：
 
 ```
-├─d2l_zh_jupyter    // jupyter代码
-│  ├─data           //课程demo使用的数据
-│  ├─pytorch        //基于pytorch框架的代码
-│  ├─self_exercise  //自己练习加部分注释的代码
-|--README.md	    // 说明
-|--绘图.pptx        // 博客文章一些说明的配图
-|--课件.pdf         //动手学深度学习2.0 李沐老师课件pdf合集
+├── Paper&Book   // 课程中涉及的网络出自的论文，以及课程配套书籍等
+│   ├── 0-1-d2l-zh-1.0.pdf
+│   ├── 0-2-d2l-zh-pytorch-release2.0.0alpha1.pdf
+│   ├── 0-3-d2l-zh.2.0.0-alpha2-pytorch.pdf
+│   ├── 0-4-课件.pdf      //动手学深度学习2.0 李沐老师课件pdf合集（手动合并了一下）
+│   ├── 1.LeNet.pdf
+│   ├── 2. AlexNet(2012 NIPS).pdf
+│   ├── XXXX
+│   ├── 9. A survey on Image Data Augmentation for Deep Learning.pdf
+│   ├── Python 深度学习.pdf
+│   ├── README.md
+│   └── 邱锡鹏nndl-book.pdf
+├── README.md   // 说明
+├── d2l_zh_jupyter // jupyter代码
+│   ├── data  //课程demo使用的数据
+│   ├── pytorch  //基于pytorch框架的代码
+│   ├── readme.md
+│   └── self_exercise   //自己练习加部分注释的代码
+├── img  // PPT或者博客中会用到的一些图
+│   ├── 1-1stardard-convolution-multi-channel.gif
+│   ├── 1-2stardard-convolution-multi-channel2.gif
+│   ├── ......
+│   ├── 卷积基础.gif
+│   ├── 可微调整.gif
+│   ├── 图神经网络1.gif
+│   └── 图神经网络2.gif
+└── 绘图  // 写博客用的一些图
+    ├── geogebra-export.ggb
+    └── 绘图.pptx    // 博客文章一些说明的配图
 ```
-
-
 
 ## 🎉资料
 
