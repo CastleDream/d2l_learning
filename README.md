@@ -46,7 +46,7 @@
 
 + 视频课程地址（b站回放）：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 
-+ 李沐老师课上使用的ppt的pdf合集版本：[课件合集ppt](https://github.com/CastleDream/d2l_learning/blob/master/%E8%AF%BE%E4%BB%B6.pdf)
++ 李沐老师课上使用的ppt的pdf合集版本：[课件合集ppt](https://github.com/CastleDream/d2l_learning/blob/master/Paper%26Book/0-4-%E8%AF%BE%E4%BB%B6.pdf)
 + 动手学深度学习2.0书的在线版本：https://zh-v2.d2l.ai/chapter_introduction/index.html
   + 这里需要注意一点：截至2021.9.24，由于动手学深度学习2.0课程最初是英文课程，所以很多同学反映2.0的在线书籍版本没有1.0的好，机译痕迹严重，所以如果感觉阅读有困难，可以去查看1.0版本或者购买1.0的纸质书籍。
 + 动手学深度学习书籍的pdf版本（这里有1.0和2.0版本）：https://github.com/d2l-ai/d2l-zh/tags
